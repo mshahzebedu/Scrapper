@@ -1,0 +1,14 @@
+{
+  "name": "scrapper",
+  "version": "1.0.0",
+  "description": "This is scrapper for webstie ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shahzeb",
+  "license": "ISC",
+  "dependencies": {
+    "website-scraper": "^4.2.1"
+  }
+}
